@@ -1,0 +1,8 @@
+- title: About
+  items:
+  - title: Global AppSec
+    url  : about/
+  - title: Team
+    url  : about/team
+  - title: Code of Conduct
+    url  : about/code-of-conduct
