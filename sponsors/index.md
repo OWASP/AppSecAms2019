@@ -21,7 +21,7 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Conference Passes | Six  | Four  | Two  |
 | Logo on Event website | Yes | Yes | Yes |
 | Lead Scanners | Two | Yes | No |
-| Cost | $25,000 | $12,500 | $7,500 |
+| Cost | &euro;22,000 | &euro;10,500 | &euro;6,500 |
 
 
 ## Corporate Sponsorship Packages
@@ -33,7 +33,7 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Conference Passes | Three  | Three  | Three  | Three  |
 | Logo on Event website | Yes | Yes | Yes | Yes |
 | Lead Scanner | Yes | Yes | Yes | Yes |
-| Cost | $150,000 | $100,000 | $50,000 | $25,000 |
+| Cost | &euro;132,500| &euro;89,000 | &euro;44,500 | &euro;22,000 |
 | ***Additional Benefits*** | | | |
 | Discounted Passes | 50% Full Conference | 50% Full Conference | 20% Full Conference | 20% Full Conference |
 | Training Passes | 10 Seats |10 Seats |10 Seats |2 Seats |
