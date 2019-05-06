@@ -9,16 +9,16 @@ Global AppSec Events provide unique opportunities for members, the community, an
 * Single event sponsorships
 * Packages for multiple events, training, and other benefits.
 
-If you are interested in becoming a Corporate or Single Event Sponsor, please contact 
+If you are interested in becoming a Corporate or Single Event Sponsor, please contact
 [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com?subject=Sponsorship%20Interest) for more information.
 
 ## Single Event Sponsorships
 
 | Level & Benefits | Emerald | Sapphire | Ruby |
-| ----- | :-----: | :-----: | :-----: | 
+| ----- | :-----: | :-----: | :-----: |
 | AppSec Events | Single event only | Single event only | Single event only |
 | Expo Space | 30'x30' | 30'x10' | 8'x6'|
-| Conference Passes | Six  | Four  | Two  | 
+| Conference Passes | Six  | Four  | Two  |
 | Logo on Event website | Yes | Yes | Yes |
 | Lead Scanners | Two | Yes | No |
 | Cost | $25,000 | $12,500 | $7,500 |
@@ -30,7 +30,7 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | ----- | :-----: | :-----: | :-----: | :-----: |
 | AppSec Events | All Global and Three Regional | All AppSec and Two Regional | Two AppSec and One Regional | One AppSec and One Regional |
 | Expo Space | 8'x6'| 8'x6'| 8'x6'| 8'x6'|
-| Conference Passes | Three  | Three  | Three  | Three  | 
+| Conference Passes | Three  | Three  | Three  | Three  |
 | Logo on Event website | Yes | Yes | Yes | Yes |
 | Lead Scanner | Yes | Yes | Yes | Yes |
 | Cost | $150,000 | $100,000 | $50,000 | $25,000 |
@@ -45,3 +45,5 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Vote in Global Elections | Yes | Yes | Yes | Yes |
 
 Corporate Sponsorships have twelve months of benefits from the date payment is received.
+
+{% include sponsors.html %}
