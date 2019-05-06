@@ -1,1 +1,5 @@
-sponsors.yml
+- type: Silver
+  sponsors:
+    - logo: cequence.png
+      name: Cequence
+      url:  https://www.cequence.ai/
