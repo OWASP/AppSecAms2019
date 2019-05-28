@@ -2,20 +2,18 @@
 title: Call for Papers 
 ---
 
-Call for Papers is now open until TBA, 2019. **[Submit a Paper Here](missing)**
+Call for Papers is now open until June 30, 2019. **[Submit a Paper Here](https://owasp.submittable.com/submit/139724/global-appsec-amsterdam-2019-call-for-papers)**
 
 ## Call for Papers Timeline
-* CfP Opens TBA, 2019
-* Review committee Announced TBA, 2019
-* CfP Closes May 31, 2019
-* Notification of submitters June 21, 2019
-* Program announced  June 28, 2019
+* CfP Opens May 27, 2019
+* Review committee Announced June 7, 2019
+* CfP Closes June 30, 2019
+* Notification of submitters July 31, 2019
+* Program announced  August 15, 2019
 
 ## Speaking at Global AppSec
 
-Web applications leaders, software engineers, and researchers from all over the world gather at Global AppSecs to drive visibility and evolution in the safety and security of the world’s software. The conference will be held TBA in Amsterdam. Hands on training will be offered TBA.  
-
-Theme:  "Security through Enablement"
+Web applications leaders, software engineers, and researchers from all over the world gather at Global AppSecs to drive visibility and evolution in the safety and security of the world’s software. The conference will be held September 26-27 in Amsterdam. Hands on training will be offered September 23-25.  
 
 Examples of previous talks include: 
 * Our Journey for Rolling out MFA
