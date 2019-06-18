@@ -34,7 +34,7 @@ We recommend all attendees to have a really good breakfast on 26th. Don’t “a
 
 * Allstars 2019 Speaker Dinner (invite-only): September 25th 2019
 * Allstars 2019 Conference Day: September 26th 2019
-* Allstars 2019 Party (invite-only): September 26th 2019
+* Allstars 2019 Party (invite-only): September 27th 2019
 
 ## Speakers
 
