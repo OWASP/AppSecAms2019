@@ -40,8 +40,8 @@ Our Sponsors
 
 Without them, this event wouldn’t be possible - thank you sponsors for making it happen! Keep in mind, Allstars 2019 is completely independent from OWASP’s conference funding.
 
-     !/images/sponsors/cure53.png
-     !/images/sponsors/google.png
-     !/images/sponsors/microsoft.png
-     !/images/sponsors/gdata.png
+     ![Cure53](/assets/images/sponsors/cure53.png)
+     ![Google](/assets/images/sponsors/google.png)
+     ![Microsoft](/assets/images/sponsors/microsoft.png)
+     ![GData](/assets/images/sponsors/gdata.png)
      TBD
