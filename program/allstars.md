@@ -18,7 +18,7 @@ Allstars 2019 itself is free. You only need to have a ticket for the OWASP confe
 
 We recommend all attendees to have a really good breakfast on 26th. Don’t “allstar” on an empty belly.
 
-## Preliminary Allstars 17 Schedule
+## Preliminary Allstars Schedule
 
 * Opening Note, Mario Heiderich
 * _To be announced_
@@ -30,7 +30,7 @@ We recommend all attendees to have a really good breakfast on 26th. Don’t “a
 * _To be announced_
 * Closing Note, Mario Heiderich
 
-## Important dates
+## Important Dates
 
 * Allstars 2019 Speaker Dinner (invite-only): September 25th 2019
 * Allstars 2019 Conference Day: September 26th 2019
