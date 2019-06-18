@@ -12,7 +12,7 @@ After our usual two years break, we are happy to bring back the awesomeness and 
 
 Allstars 2019 is delivering in one full day what’s known to be the finest, hand-selected talks from prolific speakers and top-tier researchers in the field of information-security.
 
-You can think of Allstars 2019 as a conference inside a conference - offering you one day with the most interesting influencers in today’s web application & general IT (in-)security. Allstars 2019 is a dedicated invited-speakers track at the OWASP Global AppSec Amsterdam conference conference.
+You can think of Allstars 2019 as a conference inside a conference - offering you one day with the most interesting influencers in today’s web application & general IT (in-)security. Allstars 2019 is a dedicated invited-speakers track at the OWASP Global AppSec Amsterdam conference.
 
 Allstars 2019 itself is free. You only need to have a ticket for the OWASP conference to get in.
 
