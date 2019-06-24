@@ -38,13 +38,14 @@ We recommend all attendees to have a really good breakfast on 26th. Don’t “a
 
 ## Speakers
 
+* Jennifer Gehrke
+* Gregor Kopf [@teh_gerg](https://twitter.com/teh_gerg)
 * Gareth Heyes [@garethheyes](https://twitter.com/garethheyes)
 * Lewis Ardern [@LewisArdern](https://twitter.com/LewisArdern)
 * Karsten Hahn [@struppigel](https://twitter.com/struppigel)
 * Frederik Braun [@freddyb](https://twitter.com/freddyb)
-* _To be announced_
-* _To be announced_
-* _To be announced_
+* Aron Wussler
+* Daniel Huigens
 
 ## Our Sponsors
 
