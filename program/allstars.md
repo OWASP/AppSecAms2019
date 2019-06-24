@@ -39,11 +39,11 @@ We recommend all attendees to have a really good breakfast on 26th. Don’t “a
 ## Speakers
 
 * Jennifer Gehrke
-* Gregor Kopf [@teh_gerg](https://twitter.com/teh_gerg)
-* Gareth Heyes [@garethheyes](https://twitter.com/garethheyes)
-* Lewis Ardern [@LewisArdern](https://twitter.com/LewisArdern)
-* Karsten Hahn [@struppigel](https://twitter.com/struppigel)
-* Frederik Braun [@freddyb](https://twitter.com/freddyb)
+* Gregor Kopf <a href="https://twitter.com/teh_gerg"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Gareth Heyes <a href="https://twitter.com/garethheyes"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Lewis Ardern <a href="https://twitter.com/LewisArdern"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Karsten Hahn <a href="https://twitter.com/struppigel"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Frederik Braun <a href="https://twitter.com/freddyb"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
 * Aron Wussler
 * Daniel Huigens
 
