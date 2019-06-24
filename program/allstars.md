@@ -39,11 +39,11 @@ We recommend all attendees to have a really good breakfast on 26th. Don’t “a
 ## Speakers
 
 * Jennifer Gehrke
-* Gregor Kopf <a href="https://twitter.com/teh_gerg"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
-* Gareth Heyes <a href="https://twitter.com/garethheyes"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
-* Lewis Ardern <a href="https://twitter.com/LewisArdern"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
-* Karsten Hahn <a href="https://twitter.com/struppigel"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
-* Frederik Braun <a href="https://twitter.com/freddyb"><img src="/assets/icons/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Gregor Kopf <a href="https://twitter.com/teh_gerg"><img src="/assets/images/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Gareth Heyes <a href="https://twitter.com/garethheyes"><img src="/assets/images/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Lewis Ardern <a href="https://twitter.com/LewisArdern"><img src="/assets/images/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Karsten Hahn <a href="https://twitter.com/struppigel"><img src="/assets/images/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
+* Frederik Braun <a href="https://twitter.com/freddyb"><img src="/assets/images/twitter.svg" style="width: 1em;" alt="Follow this one on Twitter" /></a>
 * Aron Wussler
 * Daniel Huigens
 
