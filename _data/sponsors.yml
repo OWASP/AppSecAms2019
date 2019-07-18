@@ -2,7 +2,7 @@
   sponsors:
     - logo: cequence.png
       name: Cequence
-      url :  https://www.cequence.ai/
+      url : https://www.cequence.ai/
     - logo: avatao.png
       name: Avatao
       url : https://avatao.com/
@@ -13,9 +13,14 @@
   sponsors:
     - logo: sig.png
       name: SIG
-      url :  http://www.softwareimprovementgroup.com/security
+      url : http://www.softwareimprovementgroup.com/security
 - type: Ruby
   sponsors:
     - logo: immuniweb.png
       name: ImmuniWeb
-      url :  https://www.immuniweb.com/
+      url : https://www.immuniweb.com/
+- type: Lanyard
+  sponsors:
+    - logo: sig.png
+      name: Software Improvement Group
+      url : https://www.softwareimprovementgroup.com/
