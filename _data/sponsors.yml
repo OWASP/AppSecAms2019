@@ -11,7 +11,7 @@
       url : https://www.ripstech.com/
 - type: Sapphire
   sponsors:
-    - logo: sig.png
+    - logo: sig_blue.png
       name: SIG
       url : http://www.softwareimprovementgroup.com/security
 - type: Ruby
@@ -24,6 +24,6 @@
       url : https://www.contrastsecurity.com/
 - type: Lanyard
   sponsors:
-    - logo: sig.png
+    - logo: sig_blue.png
       name: Software Improvement Group
       url : https://www.softwareimprovementgroup.com/
