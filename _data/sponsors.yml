@@ -19,6 +19,9 @@
     - logo: immuniweb.png
       name: ImmuniWeb
       url : https://www.immuniweb.com/
+    - logo: contrast.jpg
+      name: Contrast Security
+      url : https://www.contrastsecurity.com/
 - type: Lanyard
   sponsors:
     - logo: sig.png
