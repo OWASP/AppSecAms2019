@@ -14,6 +14,9 @@
     - logo: sig_blue.png
       name: SIG
       url : http://www.softwareimprovementgroup.com/security
+    - logo: sonatype.png
+      name: Sonatype
+      url : http://www.sonatype.com/
 - type: Ruby
   sponsors:
     - logo: immuniweb.png
