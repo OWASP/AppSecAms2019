@@ -9,6 +9,9 @@
     - logo: ripstech.svg
       name: Ripstech
       url : https://www.ripstech.com/
+    - logo: snyk.png
+      name: Snyk
+      url : https://snyk.io/
 - type: Sapphire
   sponsors:
     - logo: sig_blue.png
