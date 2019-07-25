@@ -20,6 +20,7 @@
     - logo: sonatype.png
       name: Sonatype
       url : http://www.sonatype.com/
+      backgroundSize: auto 140%;
 - type: Ruby
   sponsors:
     - logo: immuniweb.png
