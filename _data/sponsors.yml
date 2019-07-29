@@ -12,6 +12,12 @@
     - logo: snyk.png
       name: Snyk
       url : https://snyk.io/
+    - logo: wallarm.png
+      name: Wallarm
+      url : https://wallarm.com/
+    - logo: scw.png
+      name: Secure Code Warriors
+      url : https://securecodewarrior.com/
 - type: Sapphire
   sponsors:
     - logo: sig_blue.png
