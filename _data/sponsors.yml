@@ -18,6 +18,9 @@
     - logo: scw.png
       name: Secure Code Warriors
       url : https://securecodewarrior.com/
+    - logo: hcl.png
+      name: HCL
+      url : http://www.hcltech.com/
 - type: Sapphire
   sponsors:
     - logo: sig_blue.png
