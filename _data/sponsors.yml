@@ -27,6 +27,9 @@
       name: Sonatype
       url : http://www.sonatype.com/
       backgroundSize: auto 140%;
+    - logo: microfocus.png
+      name: MicroFocus
+      url : https://www.microfocus.com/en-us/home
 - type: Ruby
   sponsors:
     - logo: immuniweb.png
@@ -35,6 +38,9 @@
     - logo: contrast.jpg
       name: Contrast Security
       url : https://www.contrastsecurity.com/
+    - logo: whitesource.png
+      name: WhiteSource
+      url : http://www.whitesourcesoftware.com/
 - type: Lanyard
   sponsors:
     - logo: sig_blue.png
