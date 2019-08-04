@@ -18,7 +18,8 @@
     - logo: scw.png
       name: Secure Code Warriors
       url : https://securecodewarrior.com/
-    - logo: hcl.eps
+      backgroundSize: auto 140%;
+    - logo: hcl.png
       name: HCL
       url : http://www.hcltech.com/
 - type: Sapphire
