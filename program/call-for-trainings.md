@@ -1,7 +1,7 @@
 ---
 title: Call for Trainings
 ---
-Call for Trainers is now open until June 30. **[Submit a Training Here](https://owasp.submittable.com/submit/139726/global-appsec-amsterdam-2019-call-for-trainers)**
+Call for Trainers is now open until June 30. **Submission Closed**
 
 ## Call for Training Timeline
 * CfP Opens May 27, 2019
