@@ -2,7 +2,7 @@
 title: Call for Papers 
 ---
 
-Call for Papers is now open until June 30, 2019. **[Submit a Paper Here](https://owasp.submittable.com/submit/139724/global-appsec-amsterdam-2019-call-for-papers)**
+Call for Papers is now open until June 30, 2019. **Submissions Closed**
 
 ## Call for Papers Timeline
 * CfP Opens May 27, 2019
