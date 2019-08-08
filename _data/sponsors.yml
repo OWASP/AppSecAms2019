@@ -2,10 +2,51 @@
   sponsors:
     - logo: cequence.png
       name: Cequence
-      url:  https://www.cequence.ai/
+      url : https://www.cequence.ai/
     - logo: avatao.png
       name: Avatao
       url : https://avatao.com/
     - logo: ripstech.svg
       name: Ripstech
       url : https://www.ripstech.com/
+    - logo: snyk.png
+      name: Snyk
+      url : https://snyk.io/
+    - logo: wallarm.png
+      name: Wallarm
+      url : https://wallarm.com/
+    - logo: scw.png
+      name: Secure Code Warriors
+      url : https://securecodewarrior.com/
+      backgroundSize: auto 140%;
+    - logo: hcl.png
+      name: HCL
+      url : http://www.hcltech.com/
+- type: Sapphire
+  sponsors:
+    - logo: sig_blue.png
+      name: SIG
+      url : http://www.softwareimprovementgroup.com/security
+    - logo: sonatype.png
+      name: Sonatype
+      url : http://www.sonatype.com/
+      backgroundSize: auto 140%;
+    - logo: microfocus.png
+      name: MicroFocus
+      url : https://www.microfocus.com/en-us/home
+- type: Ruby
+  sponsors:
+    - logo: immuniweb.png
+      name: ImmuniWeb
+      url : https://www.immuniweb.com/
+    - logo: contrast.jpg
+      name: Contrast Security
+      url : https://www.contrastsecurity.com/
+    - logo: whitesource.png
+      name: WhiteSource
+      url : http://www.whitesourcesoftware.com/
+- type: Lanyard
+  sponsors:
+    - logo: sig_blue.png
+      name: Software Improvement Group
+      url : https://www.softwareimprovementgroup.com/

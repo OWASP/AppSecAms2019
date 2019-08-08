@@ -1,18 +1,19 @@
 ---
 title: Call for Trainings
 ---
-Call for Trainers is now open until TBA. **[Submit a Training Here](missing)**
+Call for Trainers is now open until June 30. **Submissions Closed**
 
 ## Call for Training Timeline
-* CfT Opens TBA, 2019
-* Review committee Announced TBA, 2019
-* CfT Closes TBA, 2019
-* Notification of submitters TBA, 2019
-* Program announced TBA, 2019
+* CfP Opens May 27, 2019
+* Review committee Announced June 7, 2019
+* CfP Closes June 30, 2019
+* Notification of submitters July 31, 2019
+* Program announced  August 15, 2019
 
 ## Training at Global AppSec
 
 We are especially interested in “the next”, cutting edge research in the context of web applications, secure development, security management, and privacy. Our goal is to give both academic researchers and industry practitioners the possibility to share their latest findings with the rest of the community, including coverage via our media channels. 
+
 Topics of interest include, but are not limited to the following:
 
 * Novel web vulnerabilities and countermeasures

@@ -2,6 +2,8 @@
 
 	h3 {
 		text-align: center;
+		font-size: 120%;
+		font-weight: bold;
 	}
 	div {
 		display: flex;
@@ -12,7 +14,7 @@
 		a {
 			height: 80px;
 			margin: 35px 10px;
-			width: 180px;
+			width: 160px;
 			background-size: contain;
 			background-repeat: no-repeat;
 			background-position: center center;
@@ -25,6 +27,9 @@
 		}
 		&.Gold a {
 			width: 200px;
+		}
+		&.Silver a {
+			width: 180px;
 		}
 	}
 }
