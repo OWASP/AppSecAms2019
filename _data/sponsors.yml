@@ -37,6 +37,12 @@
     - logo: hackerone.png
       name: HackerOne
       url : https://www.hackerone.com/
+    - logo: tala.png
+      name: Tala Security
+      url : https://www.talasecurity.io
+    - logo: facebook.png
+      name: Facebook
+      url : http://www.facebook.com/
 - type: Ruby
   sponsors:
     - logo: immuniweb.png
