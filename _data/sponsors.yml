@@ -34,6 +34,9 @@
     - logo: microfocus.png
       name: MicroFocus
       url : https://www.microfocus.com/en-us/home
+    - logo: hackerone.png
+      name: HackerOne
+      url : https://www.hackerone.com/
 - type: Ruby
   sponsors:
     - logo: immuniweb.png
