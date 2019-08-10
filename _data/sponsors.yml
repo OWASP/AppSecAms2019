@@ -45,6 +45,9 @@
     - logo: whitesource.png
       name: WhiteSource
       url : http://www.whitesourcesoftware.com/
+    - logo: detectify.jpg
+      name: Detectify
+      url : https://detectify.com/
 - type: Lanyard
   sponsors:
     - logo: sig_blue.png
