@@ -16,7 +16,7 @@ This confirmation packet provides important information including preparing for 
 | [Register your onsite team](https://www.regonline.com/registration/Checkin.aspx?EventId=2568596) |  ASAP | 
 | [Book your hotel room](https://www.HotelMap.com/map/pro/M894D) |  ASAP | 
 | Order A/V equipment rental from PSAV | ASAP |
-| [Secure your lead scanner](/assets/pdf_files/#) from Boomset | August 28th | 
+| [Secure your lead scanner](https://boomsethelp.zendesk.com/hc/en-us/articles/360027702712-Lead-Retrieval-One-Pager-How-to-Sign-In-as-a-Guest) from Boomset | August 28th | 
 | Exhibitor check-in & set-up | September 25, 12pm-5pm | 
 | Exhibitor tear-down | September 27, 4pm |
 
