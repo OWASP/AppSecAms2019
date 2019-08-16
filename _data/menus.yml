@@ -9,7 +9,11 @@
   - title: Schedule
     url  : program/schedule
 - title: Sponsor
-  url  : sponsors/
+  items:
+  - title: Opportunities
+    url  : sponsors/
+  - title: Exhibitor Info
+    url  : sponsors/exhibitor_kit
 - title: Venue
   items:
   - title: Hotel Booking Info
