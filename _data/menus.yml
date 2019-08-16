@@ -10,6 +10,10 @@
     url  : program/schedule
 - title: Sponsor
   url  : sponsors/
+- title: Venue
+  items:
+  - title: Hotel Booking Info
+    url  : venue/
 - title: About
   items:
   - title: Global AppSec
