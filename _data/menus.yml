@@ -4,14 +4,10 @@
     url  : https://www.regonline.com/registration/Checkin.aspx?EventId=2568596
   - title: Pricing
     url  : program/pricing
-- title: Submit
+- title: Program
   items:
-  - title: Call for Papers
-    url  : program/call-for-papers
-  - title: Call for Trainings
-    url  : program/call-for-trainings
-  - title: Allstars 2019
-    url  : program/allstars
+  - title: Schedule
+    url  : program/schedule
 - title: Sponsor
   url  : sponsors/
 - title: About
