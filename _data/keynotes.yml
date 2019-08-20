@@ -1,0 +1,45 @@
+- image: 
+  name : Herbert Bos
+  title: 
+  bio  : 
+  subject:
+  abstract:
+- image: mikko_hypponen.jpg
+  name: Mikko Hypponen
+  title: Chief Research Officer, F-Secure
+  bio: <p>Mikko Hypponen is the Chief Research Officer of F-Secure. He has written on his research for the 
+       New York Times, Wired and Scientific American and lectured at the universities of Oxford, Stanford, 
+       and Cambridge. He sits in the advisory boards of EUROPOL and t2. Mikko does his own stunts.</p> 
+  subject:  
+  abstract:
+  style: background-repeat:no-repeat;
+- image: chris_kubecka.jpg
+  name: Chris Kubecka
+  title: CEO Hypasec
+  bio: <p>Chris Kubecka is an experienced, committed, energetic and certified digital security expert who 
+       is passionate about solutions. Author of multiple books including the 2019 release of Hack the World 
+       with OSINT. Over 20 years of professional experience ranging from military, government, public and 
+       private business. Prior to establishing HypaSec in 2015, Chris established and headed network and 
+       security operations teams, ICS security, international joint intelligence teams, EU/UK privacy group 
+       for EMEA and South American (outside Saudi Arabia) for Aramco Overseas Company, part of Saudi Aramco. 
+       Tasked with setting up digital security after the 2012 Shamoon attacks and featured on Darknet Diaries 
+       episode 30 Shamoon. At Unisys she advised flagship clients at Lloyds TSB and Danone on their overall 
+       security and incident response. It is no surprise that outside of work she continues to tap into this 
+       love for research by pursuing IoT and ICS exploitation and defense of critical infrastructure</p>
+  subject: 
+  abstract: 
+  style: background-repeat:no-repeat;
+- image: mario_heiderich.jpg
+  name: Mario Heiderich
+  title: Founder, Cure 53
+  bio: <p>Dr.-Ing. Mario Heiderich, aging but still somewhat handsome heart-breaker, ex-security researcher 
+       and now a more or less overpaid secretary is from Berlin, still likes everything between lesser- and 
+       greater-than, also fine-food and wine-parings and leads a small yet exquisite pen-test company. He 
+       frequently pesters peaceful attendees on various conferences with PowerPoint-slides and a very 
+       immature sense of humor. Since he doesn't do any research any longer, he really has no actual talk 
+       material left, hence finds himself pushed into the shadiest of corners, the keynote corner. People 
+       often laugh during his presentations and he assumes it's about his jokes. He could not be more wrong 
+       with his assessment.</p>
+  subject: 
+  abstract: 
+  style: background-repeat:no-repeat;

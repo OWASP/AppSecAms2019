@@ -6,6 +6,8 @@
     url  : program/pricing
 - title: Program
   items:
+  - title: Keynotes
+    url  : program/keynotes
   - title: Schedule
     url  : program/schedule
 - title: Sponsor
