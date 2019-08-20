@@ -1,0 +1,126 @@
+- type: 3
+  title: Three Day Training
+  color: 0079a7
+  classes:
+      - title: Seth and Ken's Excellent Adventures in Secure Code Review
+        days: September 23 to September 25
+        description: 'Have you ever been tasked with reviewing 3.2 million lines of code manually for SQL Injection, XSS, and Access Control 
+                      flaws? Have you been asked to review a new framework on short notice? Does the idea of reviewing Ruby, Go, or Node code 
+                      leave you with heartburn? This course addresses all of these common challenges in modern code review. We have 
+                      concentrated on taking our past adventures in code review, the lessons we’ve learned along the way, and made them 
+                      applicable for others who perform code reviews. We will share our methodology to perform analysis of any source code and 
+                      suss out security flaws, no matter the size of the code base, or the framework, or the language. You as a student will 
+                      learn the methodology, techniques, approach, and tools used by Seth Law and Ken Johnson to understand code flows, trace 
+                      user input, identify vulnerabilities, and effectively secure an application codebase.<br/>
+                      <strong>Upon completion, attendees will know:</strong><br/>
+                      Students will take away knowledge and experience in approaching numerous code languages and frameworks to complete a 
+                      security source code review. In addition, the learned methodology can be customized by the attendee to fit into any 
+                      organization’s security SDLC. Finally, the attendee will have the tools to review source code for any web, mobile, or 
+                      modern application, whether or not the targeted language is specifically covered during the course'
+        trainer: Ken Johnson and Seth Law
+        room: TBD
+        url: https://globalappsecamsterdam2019.sched.com/event/TjQZ
+      - title: The DevSecOps Master Class
+        days: September 23 to September 25
+        description: '"A phased approach to continuous delivery is not only preferable, but it’s also infinitely more manageable".<br/>
+                      This quote by Maurice Kherlakian refers to DevOps, a movement that has seeped into organizations across the globe, 
+                      resulting in Continuous delivery of apps. However, security remains a serious bottleneck for DevOps. Organizations 
+                      struggle with including security in continuous delivery processes.<br/>
+                      This training is a comprehensive, focused and practical approach at implementing Security for your Continuous Delivery 
+                      Pipeline. The training is backed by a ton of hands-on labs, original research and real-world implementations of DevSecOps 
+                      that work.<br/>
+                      The training starts with Application Security Automation for SAST, DAST, SCA, IAST, and RASP, apart from Vulnerability 
+                      Management and Correlation. Finally, the training closes with a deep-dive of Container Security and Kubernetes, with 
+                      detailed perspectives of implementing scalable security for these deployments.'
+        trainer: Abhay Bhargav
+        room: TBD
+        url: https://globalappsecamsterdam2019.sched.com/event/TjQW
+- type: 2
+  title: Two Day Training
+  color: 727f5b
+  classes:
+      - title: Hands-on Threat Modeling and Tooling for DevSecOps
+        days: September 24 to September 25
+        description: 'This action-packed two-day threat modeling course is designed specifically to help DevOps engineers improve the reliability and 
+                      security of delivered software. Sebastien Deleersnyder teaches an iterative and incremental threat modeling method that is 
+                      integrated with the development and deployment pipeline.<br/>
+                      Speed of delivery is crucial with shorter development cycles, increased deployment frequency, and more dependable releases, and 
+                      Sebastien focuses on a risk-based unified threat modeling practice that is in close alignment with business objectives. You’ll 
+                      explore tools and learn how to use threat modeling as code to integrate threat modeling in the CI/CD pipeline; you’ll also discover 
+                      how to threat model the CI/CD pipeline itself.<br/>
+                      Sebastien bases the training material and hands-on workshops on real live use cases in his experience. You’ll be challenged to 
+                      perform practical threat modeling in squads of three to four people, covering the different stages of threat modeling on an 
+                      incremental business-driven CI/CD scenario:<br/>
+                      <blockquote>
+                      Sprint 1: Modeling a hotel booking web and mobile application, sharing the same REST backend<br/>
+                      Sprint 2: Threat identification as part of migrating the booking system application to AWS<br/>
+                      Sprint 3: AWS threat mitigations for the booking system built on microservices<br/>
+                      Sprint 4: Building an attack library for CI/CD pipelines
+                      </blockquote>
+                      Handouts, templates, and lab challenges will be made available before the training.'
+        trainer: Sebastien Deleersnyder
+        room: TBD
+        url: https://globalappsecamsterdam2019.sched.com/event/TjQK
+      - title: Breaking and Pwning Docker Containers and Kubernetes Clusters
+        days: September 24 to September 25
+        description: 'This 2 day attack-focused, hands-on training will set you on the path to using common attack techniques against docker, kubernetes, 
+                      containerized infrastructure. It will help you to learn the approach to follow and the process for testing and auditing containers 
+                      and Kubernetes clusters. By the end of the training, participants will able to identify and exploit applications running on 
+                      containers inside Kubernetes clusters with a hands-on approach.<br/>
+                      An organization using micro services or any other distributed architecture rely heavily on containers and container orchestration 
+                      engines like Kubernetes and as such its infrastructure security is paramount to its business operations. This course will set the 
+                      base for security testers and DevOps teams to test for common security vulnerabilities and configuration weaknesses across 
+                      containerized environments and distributed systems. It also helps to understand the approach and process to audit the Kubernetes 
+                      environment for security posture.<br/>
+                      <blockquote>
+                      * The focus is on the security aspects of the application and the container infrastructure<br/>
+                      * The participants will learn the common tools and techniques that are used to attack applications running in containerized environments<br/>
+                      * The participants will be introduced to Docker, Kubernetes and learn to assess the attack surfaces applicable for a given application on the cluster<br/>
+                      * The participants will learn how to audit for security based on best practices using tools and custom scripts<br/>
+                      <strong>Pre-requisites:</strong><br/>
+                      * At least 8 GB of RAM, 10GB of disk space free on the system<br/>
+                      * Laptop should support hardware-based visualization<br/>
+                      * If your laptop can run a 64-bit virtual machine in Oracle VirtualBox it should work<br/>
+                      * Other visualization software might work but we will not be able to provide support for that<br/>
+                      * USB Ports for copying data from Pen drive<br/>
+                      * Google Cloud Platform (GCP) Free trial account (https://cloud.google.com/free/)<br/>
+                      <strong>Student Requirements:</strong><br/>
+                      * Basic knowledge of using the Linux command line<br/>
+                      * System administration basics like servers, applications configuration, and deployment<br/>
+                      * Familiarity with container environments like Docker would be useful</blockquote>'
+        trainer: Madhu Akula
+        room: TBD
+        url: https://globalappsecamsterdam2019.sched.com/event/TjQN
+- type: 1
+  title: One Day Training
+  color: 00937e
+  classes:
+      - title: Your Dynamic Software Security Journey with OWASP SAMM2
+        days: September 25
+        description: "OWASP SAMM2 (https://owaspsamm.org) is the prime maturity model for software assurance that provides an effective and measurable way for 
+                      all types of organizations to analyse and improve their software security posture. Building security into the software development and 
+                      management practices of a company can be a daunting task. There are many elements to the equation: company structure, different 
+                      stakeholders, technology stacks, tools and processes, and so forth. Implementing software assurance will have a significant impact on the 
+                      organisation. Yet, trying to achieve this without a good framework is most likely leading to just marginal and unsustainable improvements. 
+                      OWASP Software Assurance Maturity Model (SAMM) gives you a structural and measurable framework to do just that. It enables you to 
+                      formulate and implement a strategy for software.<br/>
+                      The goal of this one-day training, which is a mix of training and workshop, is for the participants to get a more in-depth view on and 
+                      practical implementation of the SAMM2 model. The training has run successfully for several years now.<br/>
+                      The training is setup in three different parts.<br/>
+                      In the first part, an overview is presented of the SAMM2 model and similarities and differences with other similar models are explained. 
+                      The different domains (governance, design, implementation, verification, and operations), their activities and relations are explained. 
+                      This will incorporate the updates of the v2 of the model. Furthermore, different elements (e.g., metrics) are discussed and the overall 
+                      usage scenarios of the model are explained.<br/>
+                      The first half-day will be spent on performing an actual SAMM2 evaluation of your own organization (or one that you have worked for). We 
+                      will go through an evaluation of all the SAMM domains and discuss the results in the group. This will give all participants a good 
+                      indication of the organization's maturity wrt. software assurance. In the same effort, we will define a target maturity for your 
+                      organization and identify the most important challenges in getting there. All of this will be executed using the new SAMM2 toolbox.<br/>
+                      The final part of the training will be dedicated to specific questions or challenges that you are facing wrt. secure development in your 
+                      organization. For instance, what about agile development, DevSecOps, outsourcing, or how do you best organize test automation? In this 
+                      group discussion, experience between the different participants will be shared to address these questions.<br/>
+                      In case you haven't started a secure software initiative in your organization yet, this training should provide you with the necessary 
+                      foundations and ideas to do so. Be prepared for the highly effective and applicable treatment of this large domain! And in case you would 
+                      be concerned about confidentiality issues, we adhere to the Chatham House Rule."
+        trainer: Bart De Win
+        room: TBD
+        url: https://globalappsecamsterdam2019.sched.com/event/TzQB
