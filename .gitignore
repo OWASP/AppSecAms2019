@@ -5,6 +5,6 @@ _site/
 .DS_Store
 .DS_Store
 .sass-cache/
-Gemfile.lock
-Gemfile
+/Gemfile.lock
+/Gemfile
 /.project
