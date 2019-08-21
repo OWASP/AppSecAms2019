@@ -6,4 +6,5 @@ _site/
 .DS_Store
 .sass-cache/
 Gemfile.lock
+Gemfile
 /.project
