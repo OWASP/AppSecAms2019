@@ -2,6 +2,39 @@
   title: Three Day Training
   color: 0079a7
   classes:
+      - title: Attacking Android and iOS Apps by Example
+        days: September 23 to September 25
+        description: 'This course has been prepared after years of research and experience gained through pentesting mobile applications. 
+                      It is structured to follow the OWASP Mobile Top Ten and the OWASP Mobile Security Testing Guide. This is a hands-on 
+                      practical course, the skills gained can be applied to mobile security assessments immediately.<br/>
+                      Each day starts with a brief introduction to the mobile platform for that day and then continues with a look at the 
+                      static analysis, moves on to dynamic checks finishing off with a nice CTF session to test the skills gained.<br/>
+                      <strong>Overview</strong><br/>
+                      <blockquote>
+                      <strong>Day 1</strong> includes but is not limited to a brief introduction to Android security, a series of techniques focused on 
+                      static analysis, followed by dynamic analysis covering both monitoring and modifying app behavior at runtime. 
+                      The day ends with beautiful CTF challenges to entertain even advanced mobile app penetration testers.<br/>
+                      <strong>Day 2</strong> begins with a brief iOS security crash course, static analysis techniques, followed by dynamic analysis 
+                      including both monitoring and modifying app behavior at runtime. The day ends with more lovely CTF challenges.<br/>
+                      <strong>Day 3</strong> takes a deeper look at instrumentation on both Android and iOS, with a special focus on app behavior 
+                      modification at runtime. Learn more about Frida scripts, Objection, and Xposed modules. Bypass jailbreak detection and much more.
+                       End the day by testing your skills, more CTF time!
+                       </blockquote>
+                       <strong>Laptop Requirements</strong><br/>
+                       <blockquote>
+                       Connect to wireless/wired networks.<br/>
+                       Read PDF files.<br/>
+                       Administrative rights (access USB, deactivate AV and firewall, install software, etc)<br/>
+                       Minimum of 8GB of RAM (16GB+ Recommended)<br/>
+                       40GB+ free disk space (to copy the lab VM and other goodies)<br/>
+                       VMWare Player (ideally VMWare Workstation)<br/>
+                       One of the following (ideally, all):A jailbroken iPhone/iDevice with iOS >= 9 (ideally iOS 12) for the iOS labs,
+                         a Mac/Hackintosh with the latest XCode installed for iOS code review and labs, and optionally Genymotion and Burpsuite
+                       </blockquote> 
+                       '
+        trainer: Abraham Aranguren
+        room: TBD
+        url: https://globalappsecamsterdam2019.sched.com/event/TjQE
       - title: Seth and Ken's Excellent Adventures in Secure Code Review
         days: September 23 to September 25
         description: 'Have you ever been tasked with reviewing 3.2 million lines of code manually for SQL Injection, XSS, and Access Control 
