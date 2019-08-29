@@ -168,15 +168,13 @@
                       In this training, we’ll take a look at a couple of examples and explore how we could make them more efficient and effective. Topics that 
                       for example will be covered are:<br/>
                       <blockquote>
-                      <ul>
-                      <li>Agile and DevOps basics</li><br/>
-                      <li>The role of automation in development, deployment, and operations</li><br/>
-                      <li>Agile threat modeling</li><br/>
-                      <li>Patch management in DevOps environments</li><br/>
-                      <li>Incident handling feedback loops</li><br/>
-                      <li>Cloud challenges and advantages</li><br/>
-                      <li>Combining SRE and DevSecOps</li>
-                      </ul>
+                      Agile and DevOps basics<br/>
+                      The role of automation in development, deployment, and operations<br/>
+                      Agile threat modeling<br/>
+                      Patch management in DevOps environments<br/>
+                      Incident handling feedback loops<br/>
+                      Cloud challenges and advantages<br/>
+                      Combining SRE and DevSecOps
                       </blockquote>'
         trainer: Marinus Kuivenhoven
         room: TBD
