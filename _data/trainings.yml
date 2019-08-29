@@ -157,3 +157,27 @@
         trainer: Bart De Win
         room: TBD
         url: https://globalappsecamsterdam2019.sched.com/event/TjQB
+      - title: DevOps for CISO
+        days : September 25
+        description: 'The rising popularity of agile and DevOps forced the AppSec world to start interacting with development teams. Quite often this is done 
+                      with a bolt-on approach, resulting in activities that teams need to start doing on top of their existing way of working. Since many 
+                      security(-like) processes were never designed for a high-velocity environment this leads to ineffective and time-consuming processes. It 
+                      is time to rethink and redesign these processes and make them add value!<br/>
+                      This training is based on my presentation “Taming rainbow shitting unicorn” and will be interactive with group exercises for better 
+                      understanding of the topics.<br/>
+                      In this training, we’ll take a look at a couple of examples and explore how we could make them more efficient and effective. Topics that 
+                      for example will be covered are:<br/>
+                      <blockquote>
+                      <ul>
+                      <li>Agile and DevOps basics</li>
+                      <li>The role of automation in development, deployment, and operations</li>
+                      <li>Agile threat modeling</li>
+                      <li>Patch management in DevOps environments</li>
+                      <li>Incident handling feedback loops</li>
+                      <li>Cloud challenges and advantages</li>
+                      <li>Combining SRE and DevSecOps</li>
+                      </ul>
+                      </blockquote>'
+        trainer: Marinus Kuivenhoven
+        room: TBD
+        url : https://globalappsecamsterdam2019.sched.com/event/TjQH
