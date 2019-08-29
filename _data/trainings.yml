@@ -169,12 +169,12 @@
                       for example will be covered are:<br/>
                       <blockquote>
                       <ul>
-                      <li>Agile and DevOps basics</li>
-                      <li>The role of automation in development, deployment, and operations</li>
-                      <li>Agile threat modeling</li>
-                      <li>Patch management in DevOps environments</li>
-                      <li>Incident handling feedback loops</li>
-                      <li>Cloud challenges and advantages</li>
+                      <li>Agile and DevOps basics</li><br/>
+                      <li>The role of automation in development, deployment, and operations</li><br/>
+                      <li>Agile threat modeling</li><br/>
+                      <li>Patch management in DevOps environments</li><br/>
+                      <li>Incident handling feedback loops</li><br/>
+                      <li>Cloud challenges and advantages</li><br/>
                       <li>Combining SRE and DevSecOps</li>
                       </ul>
                       </blockquote>'
