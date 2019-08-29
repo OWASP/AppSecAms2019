@@ -1,4 +1,28 @@
-- type: Gold
+- type: Sapphire
+  sponsors:
+    - logo: sig_blue.png
+      name: SIG
+      url : http://www.softwareimprovementgroup.com/security
+    - logo: sonatype.png
+      name: Sonatype
+      url : http://www.sonatype.com/
+      backgroundSize: auto 140%;
+    - logo: microfocus.png
+      name: MicroFocus
+      url : https://www.microfocus.com/en-us/home
+    - logo: hackerone.png
+      name: HackerOne
+      url : https://www.hackerone.com/
+    - logo: tala.png
+      name: Tala Security
+      url : https://www.talasecurity.io
+    - logo: facebook.png
+      name: Facebook
+      url : http://www.facebook.com/
+    - logo: pwc.png
+      name: PWC
+      url : http://www.pwc.co.uk/cybersecurity
+- type: Ruby
   sponsors:
     - logo: cequence.png
       name: Cequence
@@ -22,29 +46,6 @@
     - logo: hcl.png
       name: HCL
       url : http://www.hcltech.com/
-- type: Sapphire
-  sponsors:
-    - logo: sig_blue.png
-      name: SIG
-      url : http://www.softwareimprovementgroup.com/security
-    - logo: sonatype.png
-      name: Sonatype
-      url : http://www.sonatype.com/
-      backgroundSize: auto 140%;
-    - logo: microfocus.png
-      name: MicroFocus
-      url : https://www.microfocus.com/en-us/home
-    - logo: hackerone.png
-      name: HackerOne
-      url : https://www.hackerone.com/
-    - logo: tala.png
-      name: Tala Security
-      url : https://www.talasecurity.io
-    - logo: facebook.png
-      name: Facebook
-      url : http://www.facebook.com/
-- type: Ruby
-  sponsors:
     - logo: immuniweb.png
       name: ImmuniWeb
       url : https://www.immuniweb.com/
@@ -60,6 +61,9 @@
     - logo: outpost24.png
       name: Outpost 24
       url : https://outpost24.com/products/web-application-security?utm_source=OWASP &utm_medium=Referral&utm_campaign=Event-OWASP-Gloabl-Appsec-EU-Sep-2019
+    - logo: codedx.png
+      name: CodeDX
+      url : https://codedx.com/
 - type: Lanyard
   sponsors:
     - logo: sig_blue.png
