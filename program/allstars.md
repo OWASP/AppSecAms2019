@@ -20,15 +20,14 @@ We recommend all attendees to have a really good breakfast on 26th. Don’t “a
 
 ## Preliminary Allstars Schedule
 
-* Opening Note, Mario Heiderich
-* _To be announced_
-* _To be announced_
-* _To be announced_
-* _To be announced_
-* _To be announced_
-* _To be announced_
-* _To be announced_
-* Closing Note, Mario Heiderich
+* A few opening words, _by Mario Heiderich_
+* Remote Code Execution in Firefox Beyond Memory Corruptions, _by Frederik Braun_
+* Manual JavaScript Analysis is a Bug, _by Lewis Ardern_
+* Securing ProtonMail: Building a Web App that Doesn’t Trust the Server, _by Aron Wussler & Daniel Huigens_
+* Fun with KSM, _by Jennifer Gehrke & Gregor Kopf_
+* Ransomware Identification with Limited Information, _by Karsten Hahn_
+* XSS Magic Tricks, _by his excellency, Gareth Heyes_
+* A few concluding words, by _Mario Heiderich_
 
 ## Important Dates
 
