@@ -53,21 +53,6 @@
         trainer: Ken Johnson and Seth Law
         room: TBD
         url: https://globalappsecamsterdam2019.sched.com/event/TjQZ
-      - title: The DevSecOps Master Class
-        days: September 23 to September 25
-        description: '"A phased approach to continuous delivery is not only preferable, but it’s also infinitely more manageable".<br/>
-                      This quote by Maurice Kherlakian refers to DevOps, a movement that has seeped into organizations across the globe, 
-                      resulting in Continuous delivery of apps. However, security remains a serious bottleneck for DevOps. Organizations 
-                      struggle with including security in continuous delivery processes.<br/>
-                      This training is a comprehensive, focused and practical approach at implementing Security for your Continuous Delivery 
-                      Pipeline. The training is backed by a ton of hands-on labs, original research and real-world implementations of DevSecOps 
-                      that work.<br/>
-                      The training starts with Application Security Automation for SAST, DAST, SCA, IAST, and RASP, apart from Vulnerability 
-                      Management and Correlation. Finally, the training closes with a deep-dive of Container Security and Kubernetes, with 
-                      detailed perspectives of implementing scalable security for these deployments.'
-        trainer: Abhay Bhargav
-        room: TBD
-        url: https://globalappsecamsterdam2019.sched.com/event/TjQW
 - type: 2
   title: Two Day Training
   color: 727f5b
