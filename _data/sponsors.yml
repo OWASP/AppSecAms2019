@@ -13,17 +13,17 @@
     - logo: hackerone.png
       name: HackerOne
       url : https://www.hackerone.com/
-    - logo: tala.png
-      name: Tala Security
-      url : https://www.talasecurity.io
-    - logo: facebook.png
-      name: Facebook
-      url : http://www.facebook.com/
+    - logo: checkpoint.png
+      name: Checkpoint Security
+      url:  https://www.checkpoint.com/
     - logo: pwc.png
       name: PWC
       url : http://www.pwc.co.uk/cybersecurity
 - type: Ruby
   sponsors:
+    - logo: facebook.png
+      name: Facebook
+      url : http://www.facebook.com/
     - logo: cequence.png
       name: Cequence
       url : https://www.cequence.ai/
