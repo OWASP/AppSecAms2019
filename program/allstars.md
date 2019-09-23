@@ -18,16 +18,26 @@ Allstars 2019 itself is free. You only need to have a ticket for the OWASP confe
 
 We recommend all attendees to have a really good breakfast on 26th. Don’t “allstar” on an empty belly.
 
-## Preliminary Allstars Schedule
+## Final Allstars Schedule
 
-* A few opening words, _by Mario Heiderich_
-* Remote Code Execution in Firefox Beyond Memory Corruptions, _by Frederik Braun_
-* Manual JavaScript Analysis is a Bug, _by Lewis Ardern_
-* Securing ProtonMail: Building a Web App that Doesn’t Trust the Server, _by Aron Wussler & Daniel Huigens_
-* Fun with KSM, _by Jennifer Gehrke & Gregor Kopf_
-* Ransomware Identification with Limited Information, _by Karsten Hahn_
-* XSS Magic Tricks, _by his excellency, Gareth Heyes_
-* A few concluding words, by _Mario Heiderich_
+*Please note that this is the official schedule; the one that is available [here](https://globalappsecamsterdam2019.sched.com/overview/type/HackPra) is broken.* 
+
+*Further note that there is no such thing as a "HackPra Recption" on [Friday 27th](https://globalappsecamsterdam2019.sched.com/event/VJQg/hackpra-all-stars-reception), this is wrong info and we cannot remove it ourselves.*
+
+* **10:00** A few opening words, _by Mario Heiderich_
+* **10:15** Remote Code Execution in Firefox Beyond Memory Corruptions, _by Frederik Braun_
+* **11:05** Manual JavaScript Analysis is a Bug, _by Lewis Ardern_
+* **11:55** Securing ProtonMail: Building a Web App that Doesn't Trust the Server, _by Aron Wussler & Daniel Huigens_
+
+*Lunch Break*
+
+* **13:45** Fun with KSM, _by Jennifer Gehrke & Gregor Kopf_
+* **14:35** Ransomware Identification with Limited Information, _by Karsten Hahn_
+
+*Coffee Break*
+
+* **16:05** XSS Magic Tricks, _by his excellency, Gareth Heyes_
+* **17:00** A few concluding words, by _Mario Heiderich_
 
 ## Important Dates
 
