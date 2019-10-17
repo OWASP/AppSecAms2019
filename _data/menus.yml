@@ -8,6 +8,10 @@
     url  : program/trainings
   - title: Allstars 2019	
     url  : program/allstars
+- title: Media
+  items:
+  - title: View the Event Photos
+    url  : https://photos.app.goo.gl/rsec364aa9QGWypXA
 - title: Sponsor
   items:
   - title: Opportunities
